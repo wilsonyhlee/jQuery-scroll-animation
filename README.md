@@ -2,7 +2,6 @@ scroll-animation
 ================
 Options:
 
-- objectToMove: 
 - positionToMoveTo: 
 - moveSpeed: 
 
