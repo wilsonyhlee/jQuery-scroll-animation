@@ -7,3 +7,6 @@ Options:
 
 Example: 
 $('#myDiv').scrollAnimation()
+
+Demo: 
+http://jsfiddle.net/2qLbxxtb/
